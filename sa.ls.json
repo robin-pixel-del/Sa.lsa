@@ -1,0 +1,73 @@
+{
+  "genres": [
+    {
+      "category": "Antonio Cartagena",
+      "tracks": [
+        { "id": "1VZiD_ks7Yg", "title": "Ámame con tu experiencia", "duration": 313 },
+        { "id": "D2eprswx_zU", "title": "Sin Ti", "duration": 311 },
+        { "id": "RsL_2Gk_ehQ", "title": "Si tú no estás", "duration": 323 },
+        { "id": "TwGU4D-f3KM", "title": "Ni siquiera", "duration": 305 },
+        { "id": "CDwRK3ZCY_0", "title": "Nadie que te quiera como yo", "duration": 316 }
+      ]
+    },
+    {
+      "category": "Adolescent's Orquesta",
+      "tracks": [
+        { "id": "35zqKR9QycQ", "title": "Virgen", "duration": 298 },
+        { "id": "2Dvy5lRuaOI", "title": "Me Negó", "duration": 291 },
+        { "id": "SPobGve3Uz0", "title": "Persona Ideal", "duration": 286 },
+        { "id": "ncBLchIpkcg", "title": "Aquel Lugar", "duration": 305 },
+        { "id": "LXExea8k57M", "title": "Clásico", "duration": 280 }
+      ]
+    },
+    {
+      "category": "Salsa Clásica y Otros",
+      "tracks": [
+        { "id": "dAjbu0ccjK4", "title": "Dan Den - Mi Cuerpo", "duration": 295 },
+        { "id": "CIGRT74Of64", "title": "You Salsa - No te contaron mal", "duration": 235 },
+        { "id": "Qei_Lzxv0-8", "title": "Eddy Herrera - Jardín Prohibido", "duration": 282 },
+        { "id": "87KIWVVV0kI", "title": "Ensamble - El Dinero", "duration": 320 },
+        { "id": "38H-YylYT7k", "title": "Wilfrido Vargas - El Jardinero", "duration": 255 },
+        { "id": "tTLO95WneFU", "title": "Héctor Lavoe - Juanito Alimaña", "duration": 454 },
+        { "id": "Yvv9LCZBORs", "title": "Grupo Niche - Dame un beso", "duration": 302 },
+        { "id": "BHGoqDUB_UQ", "title": "You Salsa - Cómo se perdona", "duration": 245 },
+        { "id": "TugjnxMiWAM", "title": "Salsa - No te contaron mal (Cover)", "duration": 235 }
+      ]
+    },
+    {
+      "category": "Varios Artistas",
+      "tracks": [
+        { "id": "7KxkMLAZlzw", "title": "Video Musical 1", "duration": 240 },
+        { "id": "wCBu0PkoNPs", "title": "Video Musical 2", "duration": 215 },
+        { "id": "IqsC0Kciq00", "title": "Video Musical 3", "duration": 198 },
+        { "id": "L-AushSSq2I", "title": "Video Musical 4", "duration": 220 },
+        { "id": "hb2ePDDtjdc", "title": "Video Musical 5", "duration": 210 },
+        { "id": "hWRO-vkEB6I", "title": "Video Musical 6", "duration": 230 },
+        { "id": "MjXU7I6aBpA", "title": "Video Musical 7", "duration": 185 },
+        { "id": "-iOjJhng0H0", "title": "Video Musical 8", "duration": 250 },
+        { "id": "2ss4SqXzgp4", "title": "Video Musical 9", "duration": 215 },
+        { "id": "Q6wR1eb-ytI", "title": "Video Musical 10", "duration": 205 },
+        { "id": "2udL2HR91UU", "title": "Video Musical 11", "duration": 260 },
+        { "id": "ZZPZOhkbngo", "title": "Video Musical 12", "duration": 245 },
+        { "id": "Nt3r7PuF0Oc", "title": "Video Musical 13", "duration": 225 },
+        { "id": "9oHhbsummqk", "title": "Video Musical 14", "duration": 210 },
+        { "id": "7PYUjAg4_MI", "title": "Video Musical 15", "duration": 235 },
+        { "id": "MJCm_0gwCiA", "title": "Video Musical 16", "duration": 190 },
+        { "id": "Y9xD2rd2ukI", "title": "Video Musical 17", "duration": 200 },
+        { "id": "STSPuomOVZA", "title": "Video Musical 18", "duration": 215 },
+        { "id": "t4mRxDrHunw", "title": "Video Musical 19", "duration": 220 },
+        { "id": "jiW7gzSx1qA", "title": "Video Musical 20", "duration": 210 },
+        { "id": "zolamdQrjvM", "title": "Video Musical 21", "duration": 230 },
+        { "id": "7j3yocXknEo", "title": "Video Musical 22", "duration": 240 },
+        { "id": "OeSfVYqDGEc", "title": "Video Musical 23", "duration": 205 },
+        { "id": "-j-dpfn2QeE", "title": "Video Musical 24", "duration": 195 },
+        { "id": "Y9SJxwMSf5k", "title": "Video Musical 25", "duration": 210 },
+        { "id": "o5xtYI__4yY", "title": "Video Musical 26", "duration": 225 },
+        { "id": "ARp2ecBL0Ok", "title": "Video Musical 27", "duration": 235 },
+        { "id": "VzAzICeYess", "title": "Video Musical 28", "duration": 215 },
+        { "id": "yLoN66PicQ8", "title": "Video Musical 29", "duration": 200 },
+        { "id": "7mKamV46ovA", "title": "Video Musical 30", "duration": 220 }
+      ]
+    }
+  ]
+}
